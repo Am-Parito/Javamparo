@@ -1,4 +1,4 @@
-package myTry;
+package paintCanvas;
 
 public class Rectangle {
     int x;
