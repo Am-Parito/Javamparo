@@ -1,4 +1,4 @@
-package myTry;
+package paintCanvas;
 
 import java.awt.Color;
 
